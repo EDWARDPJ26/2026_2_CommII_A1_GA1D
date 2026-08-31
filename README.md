@@ -20,7 +20,9 @@ También se aborda el **análisis estadístico de señales** como parte de la pr
 ## Autores
 
 **Grupo A1-D**  
-
+Edward Andres Pacheco Jurado 2222236
+Angely Yulitza Vasquez Lozada 2222240
+Daniel Eduardo Suarez Jaimes 2222228
 
 Escuela de Ingenierías Eléctrica, Electrónica y de Telecomunicaciones  
 Universidad Industrial de Santander
